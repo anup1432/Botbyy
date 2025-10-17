@@ -1,0 +1,3 @@
+pyrogram[full]
+motor
+python-dotenv
